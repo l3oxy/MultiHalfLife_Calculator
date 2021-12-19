@@ -9,16 +9,16 @@ rather than for a radiological context.
 
 ## Vocabulary
 * Substance (_noun_)
- - A specific chemical (including medicines, drugs).
+    * A specific chemical (including medicines, drugs).
 * Dose (_noun_)
- - The QUANTITY of substance intake during a single time
-   - (e.g. an administration of 100mg of medicine).
+    * The QUANTITY of substance intake during a single time
+        * (e.g. an administration of 100mg of medicine).
 * Dose (_verb_) [dosing, dosed, will dose]
- - The ACT of substance intake.
+    * The ACT of substance intake.
 * Dosage (_noun_)
- - The ACT of substance intake.
+    * The ACT of substance intake.
 
-"His dosing frequency is two dosages each day, and each of said dosages consists of a dose of 100mg."
+"_His dosing frequency is two dosages each day, and each of said dosages consists of a dose of 100mg._"
 
 ## Instructions
 Enter the following information:
