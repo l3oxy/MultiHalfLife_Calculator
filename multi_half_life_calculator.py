@@ -1,6 +1,6 @@
 '''
 Multi Half-lifes Calculator
-See "https://github.com/l3oxy/HalfLife_Calculator"
+See "https://github.com/l3oxy/MultiHalfLife_Calculator"
 '''
 
 import datetime
